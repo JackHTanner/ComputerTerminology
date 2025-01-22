@@ -1,0 +1,8 @@
+Docker - software development platform / virtualization technology
+  helps deploy apps in neat containerized environments
+  apps work the same no matter machine (OS)
+Docker hub - hub of docker containers
+Docker file -> (built into) Docker Image -> (run as) Docker container
+  docker file is text document about how image will be built
+  docker image executable package that includes everything needed to run a piece of software
+  docker containers are the runtime instances of those images
